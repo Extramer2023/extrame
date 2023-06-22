@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="extrame-dao-room" />
+        <module name="extrame-core" />
+        <module name="extrame-sms" />
+        <module name="extrame-file" />
+        <module name="extrame-auth" />
+        <module name="extrame-dao-template" />
+        <module name="extrame-service-user" />
+        <module name="extrame-tool" />
+        <module name="extrame-db" />
+        <module name="extrame-controller-user" />
+        <module name="extrame-main" />
+        <module name="extrame-mail" />
+        <module name="extrame-dao-user" />
+        <module name="extrame-service-mail" />
+        <module name="extrame-controller-article" />
+        <module name="extrame-redis" />
+        <module name="extrame-exception" />
+        <module name="extrame-controller-mail" />
+        <module name="extrame-service-article" />
+        <module name="extrame-dao-article" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="extrame-auth" options="-parameters" />
+      <module name="extrame-controller-article" options="-parameters" />
+      <module name="extrame-controller-mail" options="-parameters" />
+      <module name="extrame-controller-user" options="-parameters" />
+      <module name="extrame-core" options="-parameters" />
+      <module name="extrame-dao-article" options="-parameters" />
+      <module name="extrame-dao-room" options="-parameters" />
+      <module name="extrame-dao-template" options="-parameters" />
+      <module name="extrame-dao-user" options="-parameters" />
+      <module name="extrame-db" options="-parameters" />
+      <module name="extrame-exception" options="-parameters" />
+      <module name="extrame-file" options="-parameters" />
+      <module name="extrame-mail" options="-parameters" />
+      <module name="extrame-main" options="-parameters" />
+      <module name="extrame-redis" options="-parameters" />
+      <module name="extrame-service-article" options="-parameters" />
+      <module name="extrame-service-mail" options="-parameters" />
+      <module name="extrame-service-user" options="-parameters" />
+      <module name="extrame-sms" options="-parameters" />
+      <module name="extrame-tool" options="-parameters" />
+    </option>
+  </component>
+</project>
