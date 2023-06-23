@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-business/extrame-controller/extrame-controller-article/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-business/extrame-controller/extrame-controller-mail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-business/extrame-controller/extrame-controller-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-business/extrame-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-business/extrame-controller/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-business/extrame-dao/extrame-dao-article/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-business/extrame-dao/extrame-dao-room/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-business/extrame-dao/extrame-dao-template/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-business/extrame-dao/extrame-dao-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-business/extrame-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-business/extrame-dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-business/extrame-service/extrame-service-article/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-business/extrame-service/extrame-service-mail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-business/extrame-service/extrame-service-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-business/extrame-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-business/extrame-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-business/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-business/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-common/extrame-db/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-common/extrame-exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-common/extrame-file/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-common/extrame-mail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-common/extrame-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-common/extrame-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-common/extrame-tool/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/extrame-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extrame-parent/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
