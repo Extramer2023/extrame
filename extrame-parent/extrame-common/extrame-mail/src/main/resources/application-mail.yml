@@ -1,0 +1,25 @@
+mail:
+  group:
+    business:
+      attempts: 3
+      personal: ExtraMe
+      sender:
+        - username: extrame2023@163.com
+          password: DSHNZLRMRQNWSNSX
+          host: smtp.163.com
+          protocol: smtps
+          port: 465
+        - username: jx.zou@foxmail.com
+          password: vhgocldxoevfbicb
+          host: smtp.qq.com
+          port: 465
+          protocol: smtps
+  properties:
+    mail:
+      smtp:
+        connection-timeout: 5000
+        timeout: 3000
+        write timeout: 5000
+        starttls:
+          enable: true
+          required: true

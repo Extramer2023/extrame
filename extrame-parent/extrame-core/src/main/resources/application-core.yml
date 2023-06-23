@@ -1,0 +1,14 @@
+extra:
+  safety:
+    rsa:
+      size: 2048
+    jwt:
+      access-token:
+        expire: 3600
+        prefix: "Bearer "
+        iss: extra
+        sub: EXTRA-USER
+    captcha:
+        mail:
+          size: 6
+          expire: 300
